@@ -1,1 +1,19 @@
-We were tasked with: 1. Dividing the data into training (75%) and testing (25%) datasets; 2. Building a decision tree or regression classification algorithm using the created training dataset; and 3. test the created model using the created testing dataset.
+# ITM618-011 Group Project
+
+## Project Overview
+
+This project aims to predict whether a customer will subscribe to a term deposit using various machine learning models, including decision trees and logistic regression.
+
+## Installation
+
+### Prerequisites
+
+- Python 3.x
+- Libraries:
+    - pandas
+    - scikit-learn
+    - matplotlib
+    - numpy
+
+```bash
+pip install pandas scikit-learn matplotlib numpy
